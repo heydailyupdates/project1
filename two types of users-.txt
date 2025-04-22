@@ -1,0 +1,73 @@
+two types of users:-
+
+
+sudo(full permissions)-------read,write,execute
+
+normal user
+
+
+1.mkdir
+2.pwd
+3.mv
+4.cp
+5.touch
+6.cd
+7.how to switch a user:- su username
+
+etc,temp,boot,opt var,usr,
+
+
+
+file permissions:-
+
+read(4)
+write(2)
+execute(1)
+
+
+
+user,group users,others
+
+->chmod 614 filename
+->chmod 766 
+
+
+how to add an user:-
+
+adduser name
+
+
+
+how to change ownership:-
+chown user:groupuser filename
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
